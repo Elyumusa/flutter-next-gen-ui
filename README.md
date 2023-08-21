@@ -23,6 +23,11 @@ This is a desktop application displaying flutter advanced UI and animations, ins
 
 
 
+https://github.com/Elyumusa/flutter-next-gen-ui/assets/93226469/6d11eb8c-0b7e-42ac-829d-3011c6900444
+
+
+
+
 
 ## Screens it contains:
     - Main Page
